@@ -1,0 +1,14 @@
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+
+# Crash logs
+crash.log
+
+
+# CLI configuration files
+.terraform.lock.hcl
+
+# OS generated files
+.DS_Store
+Thumbs.db
