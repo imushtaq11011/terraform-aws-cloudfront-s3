@@ -59,7 +59,8 @@ Key features include:
 ---
 
 ## Folder Structure
-
+```text
+.
 terraform-root/
 ├─ main.tf # Root Terraform file calling modules
 ├─ variables.tf # Root variables
